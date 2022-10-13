@@ -1,0 +1,9 @@
+989/CHM, Chennai, Mumbai, 3000, 15
+201/DEC, Delhi, Chennai, 4000, 9
+907-CHG, Chennai, Goa, 3000, 15
+102COCH, Coimbatore, Chennai, 2000, 3
+101\GOC, Goa, Chennai, 2000, 7
+805/JAG, Jaipur, Goa, 7500, 5
+301/AGD, Agra, Delhi, 1333, 7
+3021/AGG, Agra, Goa, 1003, 3
+215/KOM, Kochi, Mumbai, 5555, 5
